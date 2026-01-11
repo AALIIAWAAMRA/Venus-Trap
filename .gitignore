@@ -1,0 +1,8 @@
+__pycache__/
+honypot_venv/
+
+# almoset by and go 
+server.key
+
+logs/
+
