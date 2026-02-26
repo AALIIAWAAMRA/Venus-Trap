@@ -7,7 +7,7 @@
 			"com.tldraw.asset": 1,
 			"com.tldraw.camera": 1,
 			"com.tldraw.document": 2,
-			"com.tldraw.instance": 25,
+			"com.tldraw.instance": 26,
 			"com.tldraw.instance_page_state": 5,
 			"com.tldraw.page": 1,
 			"com.tldraw.instance_presence": 6,
@@ -19,13 +19,13 @@
 			"com.tldraw.shape.group": 0,
 			"com.tldraw.shape.text": 4,
 			"com.tldraw.shape.bookmark": 2,
-			"com.tldraw.shape.draw": 3,
+			"com.tldraw.shape.draw": 4,
 			"com.tldraw.shape.geo": 11,
 			"com.tldraw.shape.note": 10,
 			"com.tldraw.shape.line": 5,
 			"com.tldraw.shape.frame": 1,
 			"com.tldraw.shape.arrow": 8,
-			"com.tldraw.shape.highlight": 2,
+			"com.tldraw.shape.highlight": 3,
 			"com.tldraw.shape.embed": 4,
 			"com.tldraw.shape.image": 5,
 			"com.tldraw.shape.video": 4,
@@ -50,11 +50,9 @@
 			"typeName": "camera"
 		},
 		{
-			"editingShapeId": "shape:Qsq81kIN3fAP3TXxkjM2X",
+			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:Qsq81kIN3fAP3TXxkjM2X"
-			],
+			"selectedShapeIds": [],
 			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
@@ -65,9 +63,9 @@
 			"typeName": "instance_page_state"
 		},
 		{
-			"x": 1237.2629837332215,
-			"y": 919.817999913288,
-			"z": 0.6258799739196992,
+			"x": 1127.1876238524105,
+			"y": 822.4095162125903,
+			"z": 0.5439599206822864,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -97,9 +95,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 32.97847338569564,
-			"y": -26.44193652501076,
-			"z": 0.9388992537313433,
+			"x": 0,
+			"y": 0,
+			"z": 1,
 			"meta": {},
 			"id": "camera:page:3OkR_hmJIgkf3cyqD6USx",
 			"typeName": "camera"
@@ -122,9 +120,7 @@
 		{
 			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:3hQxNyAgwW1_z_9LX7SwJ"
-			],
+			"selectedShapeIds": [],
 			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
@@ -296,11 +292,8 @@
 		},
 		{
 			"followingUserId": null,
-			"opacityForNextShape": 0.75,
-			"stylesForNextShape": {
-				"tldraw:textAlign": "middle",
-				"tldraw:size": "l"
-			},
+			"opacityForNextShape": 1,
+			"stylesForNextShape": {},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
@@ -315,7 +308,7 @@
 				"x": 0,
 				"y": 0,
 				"w": 984.72216796875,
-				"h": 465.9721984863281
+				"h": 447.9166564941406
 			},
 			"insets": [
 				false,
@@ -332,14 +325,15 @@
 			"isFocused": true,
 			"devicePixelRatio": 1.440000057220459,
 			"isCoarsePointer": false,
-			"isHoveringCanvas": false,
+			"isHoveringCanvas": null,
 			"openMenus": [],
-			"isChangingStyle": true,
+			"isChangingStyle": false,
 			"isReadonly": false,
 			"meta": {},
 			"duplicateProps": null,
+			"cameraState": "idle",
 			"id": "instance:instance",
-			"currentPageId": "page:3OkR_hmJIgkf3cyqD6USx",
+			"currentPageId": "page:page",
 			"typeName": "instance"
 		},
 		{

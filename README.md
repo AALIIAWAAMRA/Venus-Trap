@@ -36,28 +36,26 @@ The project includes these modules:
 > The sections below reserve **8 images** exactly as requested.
 
 ### 1) Architecture + Main Logic
-![Architecture and main logic](docs/images/01-architecture-main-logic.png)
+![Architecture and main logic](imgs/architect.png)
 
 ### 2) Action (runtime behavior)
-![Action screenshot](docs/images/02-action.png)
+![Action screenshot](imgs/run_ssh.png)
 
 ### 3) Source Code (part 1)
-![Source code screenshot 1](docs/images/03-source-code-1.png)
+![Source code screenshot 1](imgs/code.png)
 
 ### 4) Source Code (part 2)
-![Source code screenshot 2](docs/images/04-source-code-2.png)
+![Source code screenshot 2](imgs/ssh_test.png)
 
 ### 5) Logs
-![Logs screenshot](docs/images/05-logs.png)
+![Logs screenshot](imgs/logs.png)
 
 ### 6) Web Honeypot (login page)
-![Web honeypot screenshot 1](docs/images/06-web-honeypot-login.png)
+![Web honeypot screenshot 1](imgs/web_dash.png)
 
 ### 7) Web Honeypot (submitted credentials)
-![Web honeypot screenshot 2](docs/images/07-web-honeypot-submit.png)
+![Web honeypot screenshot 2](imgs/web_login.png)
 
-### 8) Web Honeypot (additional flow)
-![Web honeypot screenshot 3](docs/images/08-web-honeypot-extra.png)
 
 ---
 
